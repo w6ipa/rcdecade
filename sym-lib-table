@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name w6ipa_switch)(type Legacy)(uri ${KIPRJMOD}/lib/w6ipa-symbols/w6ipa_switch.lib)(options "")(descr ""))
+  (lib (name SparkFun-Switches)(type Legacy)(uri /Users/jcmartin/Dropbox/Projects/kicad/SparkFun-KiCad-Libraries/Libraries/SparkFun-Switches.lib)(options "")(descr ""))
+  (lib (name dk_Slide-Switches)(type Legacy)(uri /Users/jcmartin/Dropbox/Projects/kicad/digikey-kicad-library/digikey-symbols/dk_Slide-Switches.lib)(options "")(descr ""))
+)
